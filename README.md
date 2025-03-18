@@ -1,0 +1,1 @@
+Design of a chess game in Java running on the console, using Object Oriented Programming to model the pieces and rules. The game displays the board on the terminal, allows valid moves, capturing pieces and detecting check and checkmate. Ideal for learning logic and structuring code in Java.
